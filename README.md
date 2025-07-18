@@ -69,13 +69,13 @@ library(ordinalForest)
 
 ---
 
-📬 Contact
+## 📬 Contact
 Author: Mina Jahandideh
 Email: mn.jahandideh@gmail.com
 GitHub: @Mina-Jahandideh
 
 ---
 
-📄 License
+## 📄 License
 This code is shared under the MIT License. Please give appropriate credit if used in academic or applied work.
 
