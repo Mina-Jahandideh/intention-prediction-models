@@ -65,17 +65,19 @@ library(caret)
 library(party)
 library(e1071)
 library(pROC)
-library(ordinalForest)
+library(ordinalForest)```
 
 ---
 
+
 ## 📬 Contact
-Author: Mina Jahandideh
-Email: mn.jahandideh@gmail.com
-GitHub: @Mina-Jahandideh
+
+**Author**: Mina Jahandideh  
+**Email**: mn.jahandideh@gmail.com  
+**GitHub**: [@Mina-Jahandideh](https://github.com/Mina-Jahandideh)
 
 ---
 
 ## 📄 License
-This code is shared under the MIT License. Please give appropriate credit if used in academic or applied work.
 
+This code is shared under the MIT License. Please give appropriate credit if used in academic or applied work.
