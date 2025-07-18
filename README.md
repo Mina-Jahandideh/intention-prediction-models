@@ -65,10 +65,15 @@ library(caret)
 library(party)
 library(e1071)
 library(pROC)
-library(ordinalForest)```
+library(ordinalForest)'
 
 ---
 
+## 📁 Data Privacy
+
+The SPSS dataset (`data3.sav`) contains sensitive health data and is **not shared publicly**. You can test the script by substituting your own dataset with a similar structure.
+
+---
 
 ## 📬 Contact
 
