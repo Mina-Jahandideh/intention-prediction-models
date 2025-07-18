@@ -73,5 +73,5 @@ Email: mn.jahandideh@gmail.com
 GitHub: @Mina-Jahandideh
 
 📄 License
-This project is licensed under the MIT License — feel free to use or adapt the code with proper attribution.
+This code is shared under the MIT License. Please give appropriate credit if used in academic or applied work.
 
